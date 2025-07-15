@@ -1,10 +1,6 @@
 # Constellix on GitHub
 
-<img
-  src="https://constellix.digicert.com/wp-content/uploads/2025/02/constellix_Digicert_Logo_Blue.png"
-  alt="Constellix Logo"
-  style="background-color: white; padding: 0px; display: inline-block;"
-/>
+![Constellix Logo](./img/constellix_Digicert_Logo_Blue.png)
 
 ## Quick Links
 
