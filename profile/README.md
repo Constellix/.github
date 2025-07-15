@@ -1,6 +1,10 @@
 # Constellix on GitHub
 
-![UltraDNS Logo](https://constellix.digicert.com/wp-content/uploads/2025/02/constellix_Digicert_Logo_Blue.png)
+<img
+  src="https://constellix.digicert.com/wp-content/uploads/2025/02/constellix_Digicert_Logo_Blue.png"
+  alt="Constellix Logo"
+  style="background-color: white; padding: 0px; display: inline-block;"
+/>
 
 ## Quick Links
 
