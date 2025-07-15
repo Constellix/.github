@@ -87,4 +87,4 @@ Please describe the impact of this bug:
 
 ---
 
-**Note:** For security vulnerabilities, please do not create a public issue. Instead, email [ultradnssupport@digicert.com](mailto:ultradnssupport@digicert.com) as described in our [Security Policy](https://github.com/ultradns/.github/blob/master/SECURITY.md).
+**Note:** For security vulnerabilities, please do not create a public issue. Instead, email [support@constellix.com](mailto:support@constellix.com) as described in our [Security Policy](https://github.com/Constellix/.github/blob/master/SECURITY.md).

@@ -5,7 +5,7 @@
 ## Quick Links
 
 - **Terraform Registry** – [registry.terraform.io/providers/Constellix/constellix](https://registry.terraform.io/providers/Constellix/constellix/latest/docss)  
-- **Interactive API Documentation** – [api-docs.constellix.com](https://api-docs.constellix.com/)  
+- **Interactive API Documentation** – [API Docs](https://api-docs.constellix.com/)  
 
 ## Related Organizations
 
