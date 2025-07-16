@@ -1,6 +1,6 @@
 # Constellix on GitHub
 
-![Constellix Logo](../img/constellix_Digicert_Logo_Blue.png)
+![Constellix Logo](https://raw.githubusercontent.com/Constellix/.github/main/img/constellix_Digicert_Logo_Blue.png)
 
 ## Quick Links
 
