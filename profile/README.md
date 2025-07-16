@@ -15,9 +15,9 @@
 
 ## Governance & Community
 
-- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/Constellix/.github/blob/master/CODE_OF_CONDUCT.md)  
-- **Contributing**: [CONTRIBUTING.md](https://github.com/Constellix/.github/blob/master/CONTRIBUTING.md)  
-- **Security**: [SECURITY.md](https://github.com/Constellix/.github/blob/master/SECURITY.md)  
+- **Code of Conduct**: [CODE_OF_CONDUCT.md](https://github.com/Constellix/.github/blob/main/CODE_OF_CONDUCT.md)  
+- **Contributing**: [CONTRIBUTING.md](https://github.com/Constellix/.github/blob/main/CONTRIBUTING.md)  
+- **Security**: [SECURITY.md](https://github.com/Constellix/.github/blob/main/SECURITY.md)  
 
 ## Getting Help
 
